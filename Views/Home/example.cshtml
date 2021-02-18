@@ -7,21 +7,24 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Inside the HTML!</h1>
-
+    <h1>Here are some delicious foods!</h1>
 @{
     var StringList = new List<string>
     {
-        "Apple Pie",
-        "Burritors",
-        "Clams Casino",
-        "Donuts"
+        "one",
+        "two",
+        "three",
+        "four"
     };
         
     foreach(var word in StringList)
     {
         <div>
             <p>@word</p>
+            @if(word.Length < 4)
+            {
+                 <p>@word is a short word</p>
+            }
        </div>
     }
 }

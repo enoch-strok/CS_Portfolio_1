@@ -5,9 +5,9 @@ namespace CS_Porfolio_1
     {
         [HttpGet("")]
 
-        public string Index()
+        public ViewResult index()
         {
-            return "This is my index!";
+            return View();
         }
 
         [HttpGet("projects")]

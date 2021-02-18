@@ -32,3 +32,4 @@
 /mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Porfolio_1/obj/Debug/net5.0/CS_Porfolio_1.RazorTargetAssemblyInfo.cs
 /mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Porfolio_1/obj/Debug/net5.0/CS_Porfolio_1.Views.pdb
 /mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Porfolio_1/obj/Debug/net5.0/CS_Porfolio_1.csproj.CopyComplete
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Porfolio_1/obj/Debug/net5.0/Razor/Views/Home/example.cshtml.g.cs
