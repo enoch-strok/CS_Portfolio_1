@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\enoch\\Desktop\\coding_dojo\\Dojo_Assignments\\cs_stack\\cs_assignments\\CS_Porfolio_1\\CS_Porfolio_1.csproj",
+  "FilePath": "c:\\Users\\enoch\\Desktop\\CS_Portforlio_Debug\\CS_Porfolio_1.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,13 +15603,18 @@
   "RootNamespace": "CS_Porfolio_1",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\enoch\\Desktop\\coding_dojo\\Dojo_Assignments\\cs_stack\\cs_assignments\\CS_Porfolio_1\\Views\\Home\\example.cshtml",
-      "TargetPath": "Views\\Home\\example.cshtml",
+      "FilePath": "c:\\Users\\enoch\\Desktop\\CS_Portforlio_Debug\\Views\\Home\\contact.cshtml",
+      "TargetPath": "Views\\Home\\contact.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\enoch\\Desktop\\coding_dojo\\Dojo_Assignments\\cs_stack\\cs_assignments\\CS_Porfolio_1\\Views\\Home\\index.cshtml",
+      "FilePath": "c:\\Users\\enoch\\Desktop\\CS_Portforlio_Debug\\Views\\Home\\index.cshtml",
       "TargetPath": "Views\\Home\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\enoch\\Desktop\\CS_Portforlio_Debug\\Views\\Home\\projects.cshtml",
+      "TargetPath": "Views\\Home\\projects.cshtml",
       "FileKind": "mvc"
     }
   ],
